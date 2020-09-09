@@ -1,2 +1,0 @@
-# godchinmay
- basic project
